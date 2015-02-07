@@ -364,10 +364,13 @@ Tunes are.</p>
             </figure>
             <p>This Table directs, and is a Guide, to know all the Stops upon the <hi>Recorder</hi> or <hi>Flute,</hi> both Flat and
 Sharp, or the half Notes ascending and descending, according to the Scale of Musick.</p>
-            <figure>
-               <figDesc>table of fingerings on the recorder</figDesc>
-               <head>A Table of y<hi rend="sup">e</hi> Seuerall Notes which require Shakes or Back falls</head>
-            </figure>
+            <p>
+               <pb facs="tcp:95303:4"/>
+               <figure>
+                  <figDesc>table of fingerings on the recorder</figDesc>
+                  <head>A Table of y<hi rend="sup">e</hi> Seuerall Notes which require Shakes or Back falls</head>
+               </figure>
+            </p>
             <p>Of these Graces, a Beat is marked thus <gap reason="symbol" extent="1 letter">
                   <desc>〈☐〉</desc>
                </gap>, a Shake is marked thus <gap reason="symbol" extent="1 letter">
